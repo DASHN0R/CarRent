@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m2zHSpayQ02ZzUsxNck8WMuV/4otazMXK5IpTGygl/hOnS3a1g30J489M1x1M/0cBPF5c0mw1UOU3nsIu7o7qw==",
+  "dgSpecHash": "/URVuYZXlu4pVJd4p1H5Jstf9s3QqZiyMGoXiOJE6onsaH/fsUIcRXXHwQcRlZS6ZqfuBWVSuZhVSb6P463xiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent.Tests\\CarRent.Tests.csproj",
+  "projectFilePath": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent.Tests\\CarRent.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dashn\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\dashn\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

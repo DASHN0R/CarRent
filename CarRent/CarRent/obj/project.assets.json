@@ -4217,11 +4217,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent\\CarRent.csproj",
+      "projectUniqueName": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent\\CarRent.csproj",
       "projectName": "CarRent",
-      "projectPath": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent\\CarRent.csproj",
+      "projectPath": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent\\CarRent.csproj",
       "packagesPath": "C:\\Users\\dashn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent\\obj\\",
+      "outputPath": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

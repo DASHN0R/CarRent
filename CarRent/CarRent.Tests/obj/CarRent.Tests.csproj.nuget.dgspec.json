@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent.Tests\\CarRent.Tests.csproj": {}
+    "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent.Tests\\CarRent.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent.Tests\\CarRent.Tests.csproj": {
+    "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent.Tests\\CarRent.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent.Tests\\CarRent.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent.Tests\\CarRent.Tests.csproj",
         "projectName": "CarRent.Tests",
-        "projectPath": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent.Tests\\CarRent.Tests.csproj",
+        "projectPath": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent.Tests\\CarRent.Tests.csproj",
         "packagesPath": "C:\\Users\\dashn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent.Tests\\obj\\",
+        "outputPath": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent\\CarRent.csproj": {
-                "projectPath": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent\\CarRent.csproj"
+              "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent\\CarRent.csproj": {
+                "projectPath": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent\\CarRent.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent\\CarRent.csproj": {
+    "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent\\CarRent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent\\CarRent.csproj",
+        "projectUniqueName": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent\\CarRent.csproj",
         "projectName": "CarRent",
-        "projectPath": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent\\CarRent.csproj",
+        "projectPath": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent\\CarRent.csproj",
         "packagesPath": "C:\\Users\\dashn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dashn\\Desktop\\CarRent\\CarRent\\CarRent\\obj\\",
+        "outputPath": "C:\\Users\\dashn\\Desktop\\Projekt SAD\\CarRent\\CarRent\\CarRent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
